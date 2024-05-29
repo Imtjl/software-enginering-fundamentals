@@ -1,0 +1,9 @@
+[submodule "lab2-git-svn"]
+	path = lab2-git-svn
+	url = git@github.com:Imtjl/opi-lab2-git.git
+[submodule "lab3-apache-ant"]
+	path = lab3-apache-ant
+	url = git@github.com:Imtjl/opi-lab3-apache-ant.git
+[submodule "lab4-monitor-profile"]
+	path = lab4-monitor-profile
+	url = git@github.com:Imtjl/opi-lab4-monitor-profile.git
